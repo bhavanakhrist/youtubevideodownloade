@@ -1,1 +1,0 @@
-web: gunicorn Ytvideo_download.wsgi --log-file -
